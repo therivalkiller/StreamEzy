@@ -76,7 +76,9 @@ To achieve this we are building a P2P infrastructure that interacts through
   <p align="left">
    <code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="Bootstrap"></code> 
    <code><img height="80" src="https://cdn.dribbble.com/users/2574702/screenshots/6702374/metamask.gif" title="Ethereum"></code>
-  <code><img height="80" src="https://nx.dev/documentation/latest/shared/jest-logo.png" title="Jest"></code>
+  <code><img height="80" src="https://user-images.githubusercontent.com/62543734/155091563-167c7885-0f09-4f7f-b748-c7c627d01bc4.png" title="Jest"></code>
+
+
 <code><img height="80" src="https://user-images.githubusercontent.com/62543734/116005354-27b2e100-a624-11eb-813b-2e9a28381243.png" title="HTML"></code> 
 <code><img height="80" src="https://user-images.githubusercontent.com/62543734/116005361-2e415880-a624-11eb-836e-a9bcb03ba82d.png" title="CSS"></code>  
    </p>
